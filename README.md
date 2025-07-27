@@ -71,9 +71,7 @@ This project examines the spatial and temporal distribution of fatal overdose ri
 
 ## Directory Structure
 
-**Note**: Will be finalized after publication.
-
-## Data Sources
+**Note**: Will be finalized after publication. The code can be located in scripts/analysis.R but to replicate you will need to download the following datasets.
 
 ## Data Sources
 
