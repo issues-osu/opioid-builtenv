@@ -12,7 +12,7 @@ Submitted to the *Journal of Urban Health*.
 
 This project examines the spatial and temporal distribution of fatal overdose risk across census block groups (CBGs) in Cook County, Illinois, from 2020 to 2023. We integrate medical examiner data with satellite-derived environmental indicators, urban form classifications, and social deprivation indices to model relative risk and identify high-risk trends.
 
-![NDVI - VIIRs](imgs/Rplot.png)
+![NDVI - VIIRs](imgs/bivariate-map-light-vegetation.png)
 ---
 
 ## Workflow Summary
